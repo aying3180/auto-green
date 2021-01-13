@@ -1,4 +1,4 @@
-# auto-green 自动被绿+++
+# auto-green
 
 [![Build Status](https://github.com/justjavac/auto-green/workflows/ci/badge.svg?branch=master)](https://github.com/justjavac/auto-green/actions)
 
